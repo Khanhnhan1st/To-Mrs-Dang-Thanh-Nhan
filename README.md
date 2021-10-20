@@ -2,13 +2,13 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - Carousel</title>
+  <title>Gửi cô giáo Đặng Thanh Nhàn</title>
   <link rel="stylesheet" href="style.css">
 
 </head>
 <body>
 
-    <!-- partial:index.partial.html -->
+   
     <h1>Gửi cô giáo Đặng Thanh Nhàn</h1>
 
     <div class="container">
